@@ -7,8 +7,10 @@
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="highlightThickness" value="3" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="009688" />
+    <option name="highlightColor" value="e91e1e" />
     <option name="userId" value="6835c899:174e591d8cd:-7ffd" />
     <option name="version" value="5.2.0" />
     <option name="tabHighlightPosition" value="Top" />
