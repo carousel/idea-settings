@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../modules/basics/src/main/java/com/opengamma/strata/basics/currency/Money.java [strata-basics]'" />
-    <option name="defaultScopeName" value="File '.../modules/basics/src/main/java/com/opengamma/strata/basics/currency/Money.java [strata-basics]'" />
-    <option name="SEARCH_SCOPE" value="File '.../modules/basics/src/main/java/com/opengamma/strata/basics/currency/Money.java [strata-basics]'" />
+    <option name="customScope" value="Directory '.../src/main/java/se/citerus/dddsample/domain/model/cargo'" />
+    <option name="defaultScopeName" value="Directory '.../src/main/java/se/citerus/dddsample/domain/model/cargo'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/main/java/se/citerus/dddsample/domain/model/cargo'" />
   </component>
 </application>
