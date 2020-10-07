@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../modules/collect [strata-collect]'" />
-    <option name="defaultScopeName" value="Directory '.../modules/collect [strata-collect]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../modules/collect [strata-collect]'" />
+    <option name="customScope" value="Directory '.../modules/calc [strata-calc]'" />
+    <option name="defaultScopeName" value="Directory '.../modules/calc [strata-calc]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../modules/calc [strata-calc]'" />
   </component>
 </application>
